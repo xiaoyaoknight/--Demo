@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  Test1ViewController.h
 //  内存管理-Demo
 //
 //  Created by 王泽龙 on 2019/5/22.
@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface Test1ViewController : UIViewController
 
 
 @end
